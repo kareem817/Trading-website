@@ -2,9 +2,6 @@
 This project is a full-featured cryptocurrency trading platform built with a modern tech stack. It integrates real-time data and AI capabilities to provide a seamless user experience for crypto enthusiasts and traders.
 
 🔍 Key Features
-🤖 AI Chat Bot
-
-Get instant answers to crypto-related queries using real-time data from Gemini API and CoinGecko API.
 
 💸 Buy & Sell Crypto
 
@@ -13,6 +10,10 @@ Smooth and secure crypto transactions with support for a wide array of cryptocur
 📊 Portfolio Management
 
 Robust tools to track your investments, monitor performance, and stay informed.
+
+🤖 AI Chat Bot
+
+Get instant answers to crypto-related queries using real-time data from Gemini API and CoinGecko API.
 
 🔐 Advanced Wallet Functionality
 
